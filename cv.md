@@ -10,7 +10,7 @@
 ## Brief Self-Introduction: 
 **my goals and priorities:** - self-improvement, become senior FE-developer,
 
-**my emphasize and strengths:** - my emphasize: hyperactivity, my strengths: high motivated, hard-working, patients 
+**my strengths:** - my emphasize: hyperactivity, my strengths: high motivated, hard-working, patients 
 
 **my work experience** 1998-2000, vice-director/project manager, WebInterPage Ltd. (Belarus) 
 
