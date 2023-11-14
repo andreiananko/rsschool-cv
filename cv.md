@@ -1,4 +1,7 @@
 # Andrei Ananko
+
+![My photo](http://prawnik.by/img/me.jpg)
+
 ## Contact Information: 
 **e-mail:** kronus3k@gmail.com, \
 
