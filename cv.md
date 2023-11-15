@@ -10,7 +10,7 @@
 ## Brief Self-Introduction: 
 **my goals and priorities:** - self-improvement, become senior FE-developer,
 
-**my strengths:** - my emphasize: hyperactivity, my strengths: high motivated, hard-working, patients 
+**my strengths:** - high motivated, hard-working, patients, social activity, friendly, conflictless, team player, communicable, adaptivable, problem-solvable, ability to mediate and resolve conflicts, having a good work ethic, creativity, ability to independent work, ability to mentoring, critical thinking,
 
 **my work experience** 1998-2000, vice-director/project manager, WebInterPage Ltd. (Belarus) 
 
@@ -31,6 +31,8 @@ My solution for the task from site codewars.com . This is function that when giv
 
 **Work Experience:** I was vice-director/project manager of web-design studio for 2 years and was responsible for contacts with clients and control after layout of web-projects. 
 
-**Education (including completed courses and training):** Belarusian State University (law faculty), the Intellectual Property Institute of Jagellonian University (Internet-Law Course), Belarusian Economic State University (professional teaching faculty), JavaScript/Front-end 2023Q4 (in progress), self-face study with w3schools.com, learn.javascript.ru and courses on youtube.com 
+**Education (including completed courses and training):** Belarusian State University (law faculty), the Intellectual Property Institute of Jagellonian University (Internet-Law Course), Belarusian Economic State University (professional teaching faculty), the mediators school, JavaScript/Front-end 2023Q4 (in progress), self-face study with w3schools.com, learn.javascript.ru and courses on youtube.com 
 
 **English Language (your English proficiency level, and if you had language practice, describe it):** English level: B1, I have the language practice when I took a part by developing a law module for MBA program in the Turin University (Italy). 
+
+**hobbies:** ice hockey, airsoftgun, open air activity.
